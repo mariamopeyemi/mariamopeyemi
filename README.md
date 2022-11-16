@@ -11,6 +11,8 @@ I currently work with Nextjs, Reactjs, Javascript, Material Ui, Tailwind, CSS mo
 Stay with me while I create time to build my personal projects.
 
 Thank you
+
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamopeyemi&hide=contribs,prs)
 <!---
 mariamopeyemi/mariamopeyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
