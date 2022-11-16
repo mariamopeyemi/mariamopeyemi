@@ -31,9 +31,7 @@ Skills: **NEXT JS** || **REACT** || **JS** || **HTML** || **CSS** || **MUI** || 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mariamopeyemi)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamopeyemi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamopeyemi&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamopeyemi)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamopeyemi&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariamopeyemi)  
 
