@@ -33,7 +33,7 @@ Skills: **NEXT JS** || **REACT** || **JS** || **HTML** || **CSS** || **MUI** || 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamopeyemi)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamopeyemi&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariamopeyemi)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mariamopeyemi)   -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariamopeyemi)  
 
 ![Profile views](https://gpvc.arturio.dev/mariamopeyemi)  
