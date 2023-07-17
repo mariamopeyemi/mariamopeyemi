@@ -21,7 +21,7 @@ Skills: **NEXT JS** || **REACT** || **JS** || **HTML** || **CSS** || **MUI** || 
 
 - 🌱 I’m currently learning Javascript frameworks 
 - 👯 I’m looking to collaborate on react based projects 
-- 📫 How to reach me:  opeyemi.afolabi45@gmail.com opeyemi.dev@gmail.com 
+- 📫 How to reach me:  opeyemi.afolabi45@gmail.com opeyemi.dev@gmail.com opeyemi.afolabi@optimusbank.com
 - 😄 Pronouns: She/Her 
 
 
