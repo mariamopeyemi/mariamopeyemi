@@ -1,28 +1,57 @@
-<!-- - 👋 Hi, I’m @mariamopeyemi
-- 👀 I’m interested in show casing my coding skills
-- 🌱 I’m currently learning Javascript frameworks
-- 💞️ I’m looking to collaborate on react based projects
-- 📫 How to reach me opeyemi.afolabi45@gmail.com
-opeyemi.dev@gmail.com
+# Hi, I'm Mariam 👋
 
-I currently work @yebox and most of my works are there. We are a software company that build groundbreaking longtermed products. 
-You can follow my trail to see my works daily.
-I currently work with Nextjs, Reactjs, Javascript, Material Ui, Tailwind, CSS modules, wordpress amongst others.
-Stay with me while I create time to build my personal projects.
+I’m a Full-Stack Software Developer with core experience in **C#, .NET, React.js, and JavaScript**.  
+I enjoy building scalable backend systems, clean user interfaces, and solving real-world problems with technology.
 
-Thank you -->
+---
 
-### Hi there 👋, my name is Mariam
-#### a Front-end Developer from Lagos, Nigeria.
-I currently work @yebox and most of my works are there. We are a software company that build groundbreaking longtermed products. 
-You can follow my trail to see my works daily. Stay with me while I create time to build my personal projects.
+### 🚀 About Me
+- 💼 Software Developer @ **Optimus Bank Ltd**
+- 🧩 Strong focus on backend engineering, API design, and system reliability  
+- 🎨 Frontend experience building responsive apps with React.js  
+- 📚 Constantly learning, optimizing, and improving code quality  
+- 🌍 Open to collaborations on fintech, backend tools, or dev-focused projects
 
-Skills: **NEXT JS** || **REACT** || **JS** || **HTML** || **CSS** || **MUI** || **TAILWIND** || **STYLED-COMPONENT** || **CSS-MODULES**
+---
 
-- 🌱 I’m currently learning Javascript frameworks 
-- 👯 I’m looking to collaborate on react based projects 
-- 📫 How to reach me:  opeyemi.afolabi45@gmail.com opeyemi.dev@gmail.com opeyemi.afolabi@optimusbank.com
-- 😄 Pronouns: She/Her 
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+- C#, .NET, ASP.NET Core  
+- JavaScript, TypeScript, React.js, Next js, React Native, Flutter
+- SQL Server, Entity Framework
+
+**Tools & Practices**  
+- Git, GitHub, CI/CD  
+- REST APIs, Webhooks  
+- MSTest, Moq, Clean Architecture
+
+---
+
+### 📌 Featured Skills
+- Backend Development (C# / .NET)  
+- Frontend Development (React.js)  
+- API Development & Integration  
+- Database Design & Optimization  
+- System Performance & Scalability
+- Email Templates (MJML)
+- Styling (MUI, TAILWIND, STYLED-COMPONENT, CSS-MODULES, PURE CSS)
+---
+
+### 📈 Current Focus
+- Building stronger expertise in **cloud-native engineering**  
+- Exploring **bioinformatics software engineering**  
+- Contributing to open-source where possible
+
+---
+
+### 📫 Connect With Me
+Feel free to reach out - I'm always open to discussing ideas, collaborations, or opportunities.
+opeyemi.afolabi45@gmail.com opeyemi.dev@gmail.com
+
+---
+
+⭐️ *Thanks for visiting my profile!* 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mariamopeyemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://www.opeyemi.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@DevMariam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/opeyemi-m-afolabi-b590a5155//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mariam_afox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.opeyemi.dev/)  
